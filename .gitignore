@@ -1,3 +1,6 @@
+# database file
+/www/dist/db.sqlite
+
 # History files
 .Rhistory
 .Rapp.history
