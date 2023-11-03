@@ -18,3 +18,7 @@ Under the hood:
 1. Copy .sqlite file to the www folder so the browser can access it
 2. Use sql.js to construct a database using that file
 3. Use that instance to exeucte queries on and return the results back to shiny
+
+## Issues?
+
+Note that you might need the [latest version](https://github.com/rstudio/httpuv/releases/tag/v1.6.12) of `httpuv`.
