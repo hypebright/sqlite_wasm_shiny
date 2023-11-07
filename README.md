@@ -2,8 +2,6 @@
 
 Demonstration on how to use sql.js (a javascript library to run SQLite on the web) with Shiny.
 
-🚧 Work in progress! 🚧 
-
 ## Background
 
 This simple demonstration works as follows:
